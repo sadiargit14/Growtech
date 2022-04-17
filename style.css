@@ -1,0 +1,181 @@
+body {
+    text-align: center;
+}
+
+.container-fluid h2 {
+    margin-bottom: 5%;
+}
+
+p {
+    line-height: 1.5;
+
+}
+
+.navbar-nav {
+    padding-left: 18rem;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+
+}
+
+.navbar-brand {
+    padding-left: 20px;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+.nav-item {
+    padding-left: 70px;
+    ;
+}
+
+.container-fluid {
+    padding: 6% 10%;
+    width: 70%;
+
+
+}
+
+.content {
+    line-height: 2;
+    letter-spacing: 1px;
+
+}
+
+#title .container-fluid {
+    width: auto;
+    text-align: left;
+}
+
+#What .container-fluid {
+    width: 95%;
+}
+
+.big-heading {
+    text-align: left;
+    font-weight: 500;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: white;
+}
+
+.cover {
+    object-fit: cover;
+    position: relative;
+    left: 20%;
+}
+
+
+.sub-heading {
+    text-align: left;
+    font-size: 1.5rem;
+    color: #A2B29F;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+#title {
+    background-color: #2C3333;
+    background-image: linear-gradient(to right, #2C3333, white)
+}
+
+
+#Who {
+    background-color: white;
+
+
+}
+
+#What {
+    background-color: #E8EAE6;
+
+
+}
+
+.contact-img {
+    float: left;
+    width: 20rem;
+
+}
+
+.sub-containers {
+    margin: 0 4%;
+    background-color: white;
+    width: 260px;
+    padding: 20px;
+    padding-left: 30px;
+    text-align: left;
+}
+
+
+/*About Page*/
+
+.about {
+    color: #E8EAE6;
+    background-image: url('images/about.png');
+    text-align: left;
+    padding: 50px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.services {
+    background-color: #E8EAE6;
+    padding-top: 5%;
+    padding-bottom: 2px;
+}
+
+.services h2 {
+    padding-bottom: 7%;
+}
+
+.service-row {
+    width: 60%;
+    margin: 0 auto 15% auto;
+    text-align: left;
+}
+
+.service-content {
+    text-align: left;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.left-img {
+    float: left;
+    width: 20rem;
+    margin-right: 20%;
+
+}
+
+.right-img {
+    width: 20rem;
+    float: right;
+    margin-left: 20%;
+}
+
+
+/*footer*/
+
+#footer {
+    background-color: #E8EAE6;
+    background-image: linear-gradient(to right, #E8EAE6, white);
+    padding-bottom: 3px;
+
+}
+
+.social-icon {
+    margin: 2% 1%;
+    color: #2C3333;
+}
+
+.social-icon:hover {
+    color: #A6003A;
+}
